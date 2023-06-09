@@ -1,10 +1,9 @@
-import react from 'react';
+import React from 'react';
 
 const HomePage = () => {
 
     return(
-        <table>
-        </table>
+        <>Home page</>
     )
 }
 

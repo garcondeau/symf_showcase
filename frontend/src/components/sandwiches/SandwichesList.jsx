@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import Table from "../elements/table/Table";
 
 const SandwichesList = ({colNames, data}) => {
